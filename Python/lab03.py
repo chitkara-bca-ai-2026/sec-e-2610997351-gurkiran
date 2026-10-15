@@ -1,0 +1,10 @@
+#Student Record Display
+Name=input("Enter Student Name: ")
+Age=int(input("Enter Age: "))
+Marks=float(input("Enter Marks: "))
+print("------------------")
+print("Student Details: ")
+print(f"Name  : {Name}")
+print(f"Age   :{Age}")
+print(f"Marks : {Marks}")
+print("------------------")
