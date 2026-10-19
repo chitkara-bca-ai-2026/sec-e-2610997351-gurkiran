@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Readers Haven Book Order</title>
+</head>
+<body>
+
+    <h2>Readers Haven Book Order</h2>
+
+    <label for="book">Book Title:</label>
+    <input type="text" id="book" name="book"
+           placeholder="Enter book title" required>
+    <br><br>
+
+    <label for="quantity">Quantity:</label>
+    <input type="number" id="quantity" name="quantity"
+           min="1" required>
+    <br><br>
+
+
+    
+    <label>Preferred Payment Method:</label>
+    <br>
+
+    <input type="radio" id="cod" name="payment"
+           value="Cash on Delivery" required>
+    <label for="cod">Cash on Delivery</label>
+    <br>
+
+    <input type="radio" id="online" name="payment"
+           value="Online Payment">
+    <label for="online">Online Payment</label>
+    <br><br>
+
+
+    
+    <label>Additional Services:</label>
+    <br>
+
+    <input type="checkbox" id="gift" name="services"
+           value="Gift Wrapping">
+    <label for="gift">Gift Wrapping</label>
+    <br>
+
+    <input type="checkbox" id="bookmark" name="services"
+           value="Bookmark">
+    <label for="bookmark">Bookmark</label>
+    <br>
+
+    <input type="checkbox" id="express" name="services"
+           value="Express Delivery">
+    <label for="express">Express Delivery</label>
+    <br>
+
+    <input type="checkbox" id="card" name="services"
+           value="Greeting Card">
+    <label for="card">Greeting Card</label>
+    <br><br>
+
+
+   
+
+    <input type="hidden" name="form_type"
+           value="Readers Haven Book Order">
+
+
+    
+
+    <label for="document">Upload Reference Image/Document:</label>
+    <input type="file" id="document" name="document"
+           accept="image/*,.pdf,.doc,.docx">
+    <br><br>
+
+
+    
+
+    <label for="address">Delivery Address:</label>
+    <br>
+
+    <textarea id="address" name="address"
+              rows="4" cols="35"
+              placeholder="Enter your delivery address"
+              required></textarea>
+    <br><br>
+
+
+
+    <label for="instructions">Special Instructions:</label>
+    <br>
+
+    <textarea id="instructions" name="instructions"
+              rows="4" cols="35"
+              placeholder="Enter special instructions"></textarea>
+    <br><br>
+
+    <button type="submit">Submit Order</button>
+    <button type="reset">Reset</button>
+
+</body>
+</html>
