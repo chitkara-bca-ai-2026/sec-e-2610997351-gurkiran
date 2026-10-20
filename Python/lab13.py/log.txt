@@ -1,0 +1,7 @@
+
+[2026-10-20 17:48:41] Sorted inventory alphabetically
+[2026-10-20 17:50:20] Invalid menu choice: C:\Users\ASUS\AppData\Local\Programs\Python\Python313\python.exe c:/Users/ASUS/Desktop/DESKTOP/sec-e-2610997351-gurkiran/Python/lab13.py/solution.py
+[2026-10-20 17:50:34] Viewed inventory
+[2026-10-20 17:50:46] Added item: "Marker"
+[2026-10-20 17:50:52] Sorted inventory alphabetically
+[2026-10-20 17:50:58] Exited inventory control system

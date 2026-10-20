@@ -1,0 +1,4 @@
+Student Information System started
+Registered student: SIMRAN, Roll No: 104
+Viewed academic report for Roll No: 104
+Student Information System closed
