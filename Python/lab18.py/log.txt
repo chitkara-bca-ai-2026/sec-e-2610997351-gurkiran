@@ -1,0 +1,32 @@
+
+1. FACTORIAL CALCULATION
+Input:
+Enter a non-negative integer: 5
+Output:
+[RESULT] Factorial of 5 (5!) = 120
+
+2. FIBONACCI SERIES
+Input:
+Enter number of terms to generate: 8
+Output:
+[RESULT] Fibonacci series (8 terms):
+[0, 1, 1, 2, 3, 5, 8, 13]
+
+3. ADDITIONAL FACTORIAL EXAMPLES
+Factorial of 0 = 1
+Factorial of 1 = 1
+Factorial of 4 = 24
+Factorial of 6 = 720
+
+4. ADDITIONAL FIBONACCI EXAMPLES
+Fibonacci (5 terms):
+[0, 1, 1, 2, 3]
+Fibonacci (10 terms):
+[0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+
+5. INVALID INPUT
+Input:
+Enter a non-negative integer: -5
+
+Output:
+Error: Please enter a non-negative integer.

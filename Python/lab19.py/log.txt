@@ -1,0 +1,20 @@
+1. WRITE / SAVE NOTES
+
+Input:
+Enter notes to save:
+
+Unit 5 covers file handling:
+open, read, write, and close modes.
+
+Output:
+[SUCCESS] Notes successfully saved to 'notes.txt'.
+
+
+2. VIEW SAVED NOTES
+
+Output:
+
+Notes Content (notes.txt) 
+
+Unit 5 covers file handling:
+open, read, write, and close modes.

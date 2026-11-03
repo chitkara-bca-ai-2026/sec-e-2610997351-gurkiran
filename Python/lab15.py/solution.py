@@ -22,8 +22,6 @@ students = {
     }
 }
 
-
-# Function to write messages in log.txt
 def write_log(message):
     folder = os.path.dirname(os.path.abspath(__file__))
     log_path = os.path.join(folder, "log.txt")

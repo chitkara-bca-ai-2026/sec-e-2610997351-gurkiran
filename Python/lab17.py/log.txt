@@ -1,0 +1,45 @@
+STUDENT RECORDS:
+Roll No: 101
+Name: Aman
+Marks: [85, 90, 78]
+Total: 253
+Average: 84.33%
+
+Roll No: 102
+Name: Riya
+Marks: [92, 88, 95]
+Total: 275
+Average: 91.67%
+
+Roll No: 103
+Name: Karan
+Marks: [74, 80, 82]
+Total: 236
+Average: 78.67%
+
+SAMPLE OPERATIONS:
+1. DISPLAY ALL STUDENTS
+Total Students: 3
+
+2. ADD NEW STUDENT
+Roll Number: 104
+Student Name: Neha
+Subject 1: 88
+Subject 2: 91
+Subject 3: 84
+
+[SUCCESS] Student 'Neha'
+(Roll No: 104) added successfully.
+
+3. SEARCH STUDENT
+Enter Roll Number: 104
+[RECORD FOUND]
+Roll No: 104
+Name: Neha
+Marks: [88, 91, 84]
+Total: 263
+Average: 87.67%
+
+4. SEARCH INVALID STUDENT
+Enter Roll Number: 999
+[ERROR] No student found with Roll Number '999'.

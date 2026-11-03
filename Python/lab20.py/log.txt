@@ -1,0 +1,37 @@
+SAMPLE LOG ENTRIES:
+
+[01] 09:00 AM - System server startup verified.
+
+[02] 10:30 AM - Morning attendance synchronized.
+
+[03] 02:15 PM - Network security patch applied.
+
+
+SAMPLE OPERATION 1: ADD LOG ENTRY
+
+Input:
+Enter log entry:
+04:00 PM - Daily report completed.
+
+Output:
+[SUCCESS] New entry logged to 'daily_log.txt'.
+
+
+SAMPLE OPERATION 2: DISPLAY COMPLETE LOG
+
+Output:
+
+========== DAILY LOG BOOK ==========
+
+[01] 09:00 AM - System server startup verified.
+[02] 10:30 AM - Morning attendance synchronized.
+[03] 02:15 PM - Network security patch applied.
+04:00 PM - Daily report completed.
+
+Total Logged Entries: 4
+
+====================================
+
+
+
+
